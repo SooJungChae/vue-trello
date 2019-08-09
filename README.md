@@ -1,18 +1,7 @@
-# lecture-vue-trello
+# 트렐로 개발로 배우는 Vuejs, Vuex, Vue-Router 프론트엔드 실전 기술
 
-> A Vue.js project
+![인프런 강의 이미지](./inflearnStudy.png)
+강좌 주소 [https://www.inflearn.com/questions/10432](https://www.inflearn.com/questions/10432) <br>
+인프런 강의 들으면서 trello 개발을 해보면서 기획부터 개발까지 어떻게 하는지 파악할 것임.
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+**2019-08-09** 현재 5강까지 들었다. 너무 세분화해서 강의 수 늘린 것 같은 느낌이 든다. webpack-simple 레이아웃의 버전이 낮아 보안 문제도 있지만, 그래도 해보자.
